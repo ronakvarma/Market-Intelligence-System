@@ -1,0 +1,20 @@
+2025-09-30 16:09:18.015 | INFO     | __main__:main:18 - Starting the market intelligence application.
+2025-09-30 16:09:18.016 | INFO     | __main__:main:21 - Scraping tweets...
+2025-09-30 16:09:18.016 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:47 - Scraping tweets for #nifty50
+2025-09-30 16:10:26.886 | INFO     | __main__:main:18 - Starting the market intelligence application.
+2025-09-30 16:10:26.886 | INFO     | __main__:main:21 - Scraping tweets...
+2025-09-30 16:10:26.886 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:47 - Scraping tweets for #nifty50
+2025-09-30 16:14:09.041 | INFO     | __main__:main:18 - Starting the market intelligence application.
+2025-09-30 16:14:09.042 | INFO     | __main__:main:21 - Scraping tweets...
+2025-09-30 16:14:09.042 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:47 - Scraping tweets for #nifty50
+2025-09-30 16:16:55.113 | INFO     | __main__:main:18 - Starting the market intelligence application.
+2025-09-30 16:16:55.113 | INFO     | __main__:main:21 - Scraping tweets...
+2025-09-30 16:16:55.113 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:47 - Scraping tweets for #nifty50
+2025-09-30 16:18:20.044 | INFO     | __main__:main:18 - Starting the market intelligence application.
+2025-09-30 16:18:20.045 | INFO     | __main__:main:21 - Scraping tweets...
+2025-09-30 16:18:20.045 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:47 - Scraping tweets for #nifty50
+2025-09-30 17:27:33.299 | INFO     | __main__:main:26 - Starting the market intelligence application.
+2025-09-30 17:27:33.299 | INFO     | __main__:main:29 - Scraping tweets...
+2025-09-30 17:27:33.299 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:76 - Scraping tweets for #nifty50
+2025-09-30 17:27:34.042 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:78 - Collected 10 tweets for #nifty50
+2025-09-30 17:27:34.042 | INFO     | twitter_scraper.scraper:scrape_all_hashtags:76 - Scraping tweets for #sensex
